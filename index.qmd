@@ -1,0 +1,50 @@
+---
+title: The effect of seasonal variation on mind wandering and executive functions
+authors:
+  - name: Steffen Rygg Aasen
+    orid: 0000-0003-2807-7504
+    affiliation: UiT The Arctic University of Norway
+    roles: Writing – original draft, Visualization, Data curation, Investigation, Resources
+  - name: Eirik Holst
+    orid: 
+    affiliation: UiT The Arctic University of Norway
+    roles: Writing – review & editing, Data curation, Investigation
+  - name: Joakim Bøe Brunstøl
+    orid: 
+    affiliation: UiT The Arctic University of Norway
+    roles: Writing – review & editing, Data curation, Investigation, 
+  - name: Gábor Csifcsák 
+    orid: 0000-0001-7719-7073
+    affiliation: UiT The Arctic University of Norway
+    roles: Writing – review & editing, Conceptualization, Data curation, Investigation, Methodology, 
+  - name: Matthias Mittner
+    orid: 0000-0003-0205-7353
+    affiliation: UiT The Arctic University of Norway
+    roles: Writing – review & editing, Project administration, Software, Funding acquisition, Conceptualization, Data curation, Investigation, Methodology
+    corresponding: true
+    email: matthias.mittner@uit.no
+keywords: 
+  - mind wandering
+  - attention
+  - seasonal effect
+abstract: 
+  This is where we put the abstract. 
+
+bibliography: references.bib
+---
+
+::: callout-note
+## CRediT (remove later)
+
+| Col1                   | Col2                       |
+|------------------------|----------------------------|
+| Conceptualization      | Resources                  |
+| Data curation          | Software                   |
+| Formal Analysis        | Supervision                |
+| Funding acquisition    | Validation                 |
+| Investigation          | Visualization              |
+| Methodology            | Writing – original draft   |
+| Project administration | Writing – review & editing |
+:::
+
+Everyone is exposed to seasonal variation in sunlight. For most people in the world, sunrise and sunset does not change that much, but for people living further from the equator, the changes in sunrise and sunset can be drastic. Indeed, Tromsø in Northern Norway is uniquely situated above the Arctic circle (69 longitude) and experience complete darkness (no sunrise) during winter, and no darkness (no sunset) during summer.
